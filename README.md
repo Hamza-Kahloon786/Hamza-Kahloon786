@@ -22,7 +22,7 @@
 ### 🧠 AI/ML Specialist
 ```yaml
 Current Role: Full Stack Developer with AI/ML
-Company: PGE (Pangea Global Enterprise)
+Company: Inter Tech Global
 Experience: 4+ Years
 Specialization: Intelligent Web Applications
 Success Rate: 92% (AIPAS Project)
@@ -140,8 +140,6 @@ graph TD
 <div align="center">
 
 ### 🤖 AI Chatbot Task Detector | 2024
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Kahloon786&repo=ai-chatbot-task-detector&theme=tokyonight&hide_border=true&border_radius=15)](https://github.com/Hamza-Kahloon786/ai-chatbot-task-detector)
-
 **🔥 Tech Stack:** `Python` `NLP` `FastAPI` `React.js` `OpenAPI`
 
 ```yaml
@@ -157,8 +155,6 @@ Performance Metrics:
 <div align="center">
 
 ### 🛒 Nozama.ai E-commerce Platform | 2024
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Kahloon786&repo=nozama-ai-ecommerce&theme=tokyonight&hide_border=true&border_radius=15)](https://github.com/Hamza-Kahloon786/nozama-ai-ecommerce)
-
 **🚀 Tech Stack:** `React.js` `Node.js` `AI Integration` `MongoDB`
 
 ```yaml
@@ -174,8 +170,6 @@ AI Features:
 <div align="center">
 
 ### 💼 AI-Driven Procurement System (AIPAS) | 2023
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Kahloon786&repo=ai-procurement-system&theme=tokyonight&hide_border=true&border_radius=15)](https://github.com/Hamza-Kahloon786/ai-procurement-system)
-
 **🎯 Tech Stack:** `Python` `Django` `OCR` `NLP` `Machine Learning`
 
 ```yaml
@@ -219,16 +213,16 @@ Achievement Highlights:
 
 <div align="center">
 
-| Certification | Institution | Year | Credential |
-|--------------|-------------|------|------------|
-| 🎓 **Web Development with AI/ML** | PGE (Pangea Global Enterprise) | 2024 | [![cert](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](link) |
-| 🔥 **Full Stack Development** | PGE (Pangea Global Enterprise) | 2024 | [![cert](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](link) |
-| 🏆 **Web Development** | ARFA Tower, ITU University | 2023 | [![cert](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](link) |
-| 🐍 **Python Programming** | SoloLearn | 2023 | [![cert](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](link) |
-| 🤖 **AI/ML Fundamentals** | SoloLearn | 2023 | [![cert](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](link) |
-| 🎨 **UI/UX Design** | Great Learning | 2022 | [![cert](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](link) |
-| ⚡ **Advanced JavaScript** | Coursera | 2022 | [![cert](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](link) |
-| 📊 **Database Management** | MongoDB University | 2022 | [![cert](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](link) |
+| Certification | Institution | Year | Status |
+|--------------|-------------|------|--------|
+| 🎓 **Web Development with AI/ML** | PGE (Pangea Global Enterprise) | 2024 | ✅ Completed |
+| 🔥 **Full Stack Development** | PGE (Pangea Global Enterprise) | 2024 | ✅ Completed |
+| 🏆 **Web Development** | ARFA Tower, ITU University | 2023 | ✅ Completed |
+| 🐍 **Python Programming** | SoloLearn | 2023 | ✅ Completed |
+| 🤖 **AI/ML Fundamentals** | SoloLearn | 2023 | ✅ Completed |
+| 🎨 **UI/UX Design** | Great Learning | 2022 | ✅ Completed |
+| ⚡ **Advanced JavaScript** | Coursera | 2022 | ✅ Completed |
+| 📊 **Database Management** | MongoDB University | 2022 | ✅ Completed |
 
 </div>
 
@@ -251,8 +245,8 @@ timeline
     2024 : PGE Internship
          : Full Stack Development
          : Real-time Applications
-    2025 : Senior Developer Role
-         : AI/ML Integration Expert
+    2025 : Inter Tech Global
+         : Full Stack Developer with AI/ML
          : Leading Complex Projects
 ```
 
@@ -332,15 +326,16 @@ graph LR
 
 <div align="center">
   
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HamzaKahloon&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="WakaTime Stats"/>
+  <!-- WakaTime Stats - Optional, remove if you don't use WakaTime -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HamzaKahloon&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="WakaTime Stats"/> -->
   
 </div>
 
 ## 🎵 Currently Vibing To
 <div align="center">
   
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=1F6FEB)](https://open.spotify.com/user/yourspotifyusername)
+<!-- Add your Spotify username if you want this feature -->
+<!-- [![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=1F6FEB)](https://open.spotify.com/user/yourspotifyusername) -->
 
 </div>
 
