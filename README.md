@@ -139,15 +139,17 @@ graph TD
 
 <div align="center">
 
-### 🤖 AI Chatbot Task Detector | 2024
-**🔥 Tech Stack:** `Python` `NLP` `FastAPI` `React.js` `OpenAPI`
+### 🤖 Storm AI - Field Service Management SaaS | 2024
+**🔥 Tech Stack:** `React.js` `Node.js` `AI Integration` `QuickBooks API` `Twilio`
+**🌐 Live Demo:** [storm-ai.decodersdigital.net](https://storm-ai.decodersdigital.net/)
 
 ```yaml
-Performance Metrics:
-  Response Time: < 200ms
-  Accuracy: 94%
-  Concurrent Users: 1000+
-  API Calls/Day: 50,000+
+Key Features:
+  AI Sales Assistant: Automated lead qualification
+  CRM & Pipeline: Complete contact management
+  Smart Scheduling: GPS tracking & route optimization
+  Customer Portal: Real-time job status & payments
+  Mobile App: Technician dispatch & completion
 ```
 
 </div>
@@ -156,6 +158,7 @@ Performance Metrics:
 
 ### 🛒 Nozama.ai E-commerce Platform | 2024
 **🚀 Tech Stack:** `React.js` `Node.js` `AI Integration` `MongoDB`
+**🔗 LinkedIn Post:** [View Project Details](https://www.linkedin.com/posts/hamza-kahloon-12a14125a_fullstackdevelopment-aimarketplace-react-activity-7369043698388451330-sfAN)
 
 ```yaml
 AI Features:
@@ -169,15 +172,16 @@ AI Features:
 
 <div align="center">
 
-### 💼 AI-Driven Procurement System (AIPAS) | 2023
-**🎯 Tech Stack:** `Python` `Django` `OCR` `NLP` `Machine Learning`
+### ⚖️ Legal Assistant AI Bot | 2024
+**🎯 Tech Stack:** `React.js` `Node.js` `GPT-4` `RAG Pipeline` `ChromaDB`
+**🔗 LinkedIn Post:** [View Project Details](https://www.linkedin.com/posts/hamza-kahloon-12a14125a_ai-legaltech-fullstackdevelopment-activity-7372317966253645825-dIFH)
 
 ```yaml
-Achievement Highlights:
-  Decision Accuracy: 92%
-  Processing Speed: 10x faster
-  Cost Reduction: 35%
-  Document Processing: 1000+ per hour
+Legal Innovation:
+  Research Efficiency: 70% time reduction
+  Document Analysis: AI-powered risk assessment
+  Client Communication: Automated FAQ & updates
+  Compliance: GDPR/CCPA compliant with audit logs
 ```
 
 </div>
@@ -215,12 +219,12 @@ Achievement Highlights:
 
 | Certification | Institution | Year | Status |
 |--------------|-------------|------|--------|
-| 🎓 **Web Development with AI/ML** | PGE (Pangea Global Enterprise) | 2024 | ✅ Completed |
-| 🔥 **Full Stack Development** | PGE (Pangea Global Enterprise) | 2024 | ✅ Completed |
-| 🏆 **Web Development** | ARFA Tower, ITU University | 2023 | ✅ Completed |
+| 🎓 **Web Designer and Developer** | PNY Training (Verified ✅) | 2024 | ✅ Completed |
+| 🔥 **Full Stack Development** | PGE (Pangea Global Enterprise) | 2025 | ✅ Completed |
+| 🎨 **UI/UX for Beginners** | Great Learning Academy | 2024 | ✅ Completed |
+| 💻 **C++ Tutorial** | Great Learning Academy | 2023 | ✅ Completed |
 | 🐍 **Python Programming** | SoloLearn | 2023 | ✅ Completed |
 | 🤖 **AI/ML Fundamentals** | SoloLearn | 2023 | ✅ Completed |
-| 🎨 **UI/UX Design** | Great Learning | 2022 | ✅ Completed |
 | ⚡ **Advanced JavaScript** | Coursera | 2022 | ✅ Completed |
 | 📊 **Database Management** | MongoDB University | 2022 | ✅ Completed |
 
