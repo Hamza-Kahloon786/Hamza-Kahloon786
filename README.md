@@ -492,35 +492,15 @@ graph TD
 </tr>
 </table>
 
-## 💻 Coding Activity
+## 💻 Coding Activity & Development Stats
 
 <div align="center">
   
-  <!-- WakaTime Stats - Optional, remove if you don't use WakaTime -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HamzaKahloon&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="WakaTime Stats"/> -->
+  <!-- Coding Activity Metrics -->
+  <img src="https://img.shields.io/badge/💻_Daily_Commits-5+-success?style=for-the-badge&logo=git&logoColor=white&labelColor=success"/>
+  <img src="https://img.shields.io/badge/⏰_Coding_Hours-8%2B_Daily-blue?style=for-the-badge&logo=clock&logoColor=white&labelColor=blue"/>
+  <img src="https://img.shields.io/badge/🔥_Current_Streak-45_Days-orange?style=for-the-badge&logo=fire&logoColor=white&labelColor=orange"/>
   
-</div>
-
-## 🎵 Currently Vibing To
-<div align="center">
-  
-<!-- Add your Spotify username if you want this feature -->
-<!-- [![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=1F6FEB)](https://open.spotify.com/user/yourspotifyusername) -->
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hamza-Kahloon786&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 💡 Random Dev Quote
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
 </div>
 
 ---
