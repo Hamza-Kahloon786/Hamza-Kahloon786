@@ -1,559 +1,231 @@
-# 🚀 Hamza Kahloon | AI-Powered Full Stack Developer ⭐
-
-<div align="center">
-  
-  <!-- Animated Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  
-  <!-- Achievement Badges Row 1 -->
-  <img src="https://img.shields.io/badge/⭐_GitHub_Stars-500+-gold?style=for-the-badge&logo=github&logoColor=white&labelColor=gold"/>
-  <img src="https://img.shields.io/badge/🚀_Projects_Completed-25+-success?style=for-the-badge&logo=rocket&logoColor=white&labelColor=success"/>
-  <img src="https://img.shields.io/badge/🏆_Certifications-8+-blue?style=for-the-badge&logo=certificate&logoColor=white&labelColor=blue"/>
-  
-  <!-- Achievement Badges Row 2 -->
-  <img src="https://img.shields.io/badge/💼_Years_Experience-4+-purple?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=purple"/>
-  <img src="https://img.shields.io/badge/🤖_AI_Projects-15+-orange?style=for-the-badge&logo=brain&logoColor=white&labelColor=orange"/>
-  <img src="https://img.shields.io/badge/⚡_Response_Time-<200ms-red?style=for-the-badge&logo=lightning&logoColor=white&labelColor=red"/>
-  
-  <!-- Profile Views Counter with Animation -->
-  <img src="https://komarev.com/ghpvc/?username=Hamza-Kahloon786&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🤖+AI%2FML+Engineer+%7C+Full+Stack+Developer;🚀+4%2B+Years+Building+Intelligent+Solutions;💡+Transforming+Ideas+into+AI-Powered+Reality;🌟+React+%7C+Python+%7C+Machine+Learning;⭐+92%25+AI+Accuracy+Rate+Achieved" alt="Typing SVG" />
-
-</div>
-
-## 🎯 Professional Overview
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI/ML Specialist ⭐
-```
-Current Role: Full Stack Developer with AI/ML
-Company: Inter Tech Global
-Experience: 4+ Years
-Specialization: Intelligent Web Applications
-Success Rate: 92% (AIPAS Project)
-AI Models Deployed: 15+
-```
-
-</td>
-<td width="50%">
-
-### 🎓 Academic Excellence 🏆
-```
-Degree: BS Software Engineering
-University: University of Lahore
-CGPA: 3.3/4.0
-Graduation: 2022
-Location: Lahore, Punjab, Pakistan
-Class Rank: Top 25%
-```
-
-</td>
-</tr>
-</table>
-
-<!-- Key Achievements Showcase -->
 <div align="center">
 
-### 🏆 Key Achievements & Milestones
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,534AB7&height=200&section=header&text=Hamza%20Kahloon&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descSize=18&descAlignY=58&descColor=CECBF6"/>
 
-| 🎯 Achievement | 📊 Metric | 🌟 Impact |
-|---------------|----------|----------|
-| 🤖 **AI Project Success Rate** | 92% Average Accuracy | 15+ Models Deployed |
-| 🚀 **SaaS Platform Built** | Storm AI (Live Production) | 1000+ Daily Active Users |
-| ⚡ **Performance Optimization** | <200ms Response Time | 70% Faster Than Industry Standard |
-| 🎓 **Professional Certifications** | 8+ Verified Certificates | Continuous Learning Mindset |
-| 💼 **Client Satisfaction** | 98% Positive Feedback | 25+ Projects Delivered |
-| 🌐 **Open Source Contributions** | 500+ GitHub Stars | Community Recognition |
+<a href="https://portfolio-lvc1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-7F77DD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hamza-kahloon-12a14125a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hamzaakahloon903@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/923091453950"><img src="https://img.shields.io/badge/WhatsApp-Quick%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-</div>
+<br/>
 
-<div align="center">
-  
-  <!-- Animated Separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Building+intelligent+full-stack+applications;92%25+AI+accuracy+%C2%B7+1000%2B+daily+active+users;4%2B+years+%C2%B7+25%2B+projects+%C2%B7+10%2B+countries" alt="Typing animation"/>
 
-## 🛠️ Technology Arsenal
-
-### 💻 Programming Languages
-<div align="center">
-
-| Language | Proficiency | Years | Projects |
-|----------|------------|-------|----------|
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ████████████ 95% | 4+ | 15+ |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ████████████ 90% | 4+ | 20+ |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ██████████░░ 85% | 3+ | 10+ |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ████████░░░░ 80% | 2+ | 8+ |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ███████░░░░░ 70% | 2+ | 5+ |
-
-</div>
-
-### 🎨 Frontend Mastery
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,flutter,figma&perline=9" />
-</p>
-
-<div align="center">
-  
-```mermaid
-pie title Frontend Skills Distribution
-    "React.js/Redux" : 40
-    "Vanilla JavaScript" : 25
-    "HTML5/CSS3" : 20
-    "UI Frameworks" : 10
-    "Mobile Development" : 5
-```
-
-</div>
-
-### ⚙️ Backend Engineering
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,django,flask,fastapi,laravel,php&perline=9" />
-</p>
-
-### 🤖 AI/ML & Data Science Stack
-<div align="center">
-
-| Technology | Usage | Accuracy Rate |
-|------------|-------|---------------|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Deep Learning | 95% |
-| ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ML Algorithms | 92% |
-| ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Data Processing | 98% |
-| ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Numerical Computing | 97% |
-| ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) | Computer Vision | 88% |
-
-</div>
-
-### 💾 Database Ecosystem
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis&perline=5" />
-</p>
-
-<div align="center">
-  
-```mermaid
-graph TD
-    A[Database Management] --> B[NoSQL - MongoDB]
-    A --> C[SQL - MySQL/PostgreSQL]
-    A --> D[In-Memory - Redis]
-    A --> E[Lightweight - SQLite]
-    B --> F[Document Store]
-    C --> G[Relational Data]
-    D --> H[Caching Layer]
-    E --> I[Local Development]
-```
-
-</div>
-
-### 🔧 DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&perline=6" />
-</p>
-
-<div align="center">
-  
-  <!-- Animated Separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-</div>
-
-## 🏆 Featured Projects Showcase ⭐
-
-<div align="center">
-
-### 🤖 Storm AI - Field Service Management SaaS | 2024 🌟
-**🔥 Tech Stack:** `React.js` `Node.js` `AI Integration` `QuickBooks API` `Twilio`  
-**🌐 Live Demo:** [storm-ai.decodersdigital.net](https://storm-ai.decodersdigital.net/)  
-**⭐ Status:** Production Ready | **👥 Users:** 1000+ Daily Active
-
-```
-Key Features:
-• AI Sales Assistant: Automated lead qualification
-• CRM & Pipeline: Complete contact management
-• Smart Scheduling: GPS tracking & route optimization
-• Customer Portal: Real-time job status & payments
-• Mobile App: Technician dispatch & completion
-
-Performance Metrics:
-• Response Time: <150ms
-• Uptime: 99.9%
-• Customer Satisfaction: 4.8/5
-• Daily Active Users: 1000+
-```
-
-</div>
-
-<div align="center">
-
-### 🛒 Nozama.ai E-commerce Platform | 2024 🏆
-**🚀 Tech Stack:** `React.js` `Node.js` `AI Integration` `MongoDB`  
-**🔗 LinkedIn Post:** [View Project Details](https://www.linkedin.com/posts/hamza-kahloon-12a14125a_fullstackdevelopment-aimarketplace-react-activity-7369043698388451330-sfAN)  
-**⭐ Status:** AI-Powered Marketplace | **📈 Growth:** 300% User Increase
-
-```
-AI Features:
-• Product Recommendations: 96% accuracy
-• Dynamic Pricing: Real-time optimization
-• Customer Service: 24/7 AI chatbot
-• Personalization: ML-driven UX
-
-Business Impact:
-• Sales Conversion: +45%
-• Customer Retention: +60%
-• Support Tickets: -70%
-```
-
-</div>
-
-<div align="center">
-
-### ⚖️ Legal Assistant AI Bot | 2024 🥇
-**🎯 Tech Stack:** `React.js` `Node.js` `GPT-4` `RAG Pipeline` `ChromaDB`  
-**🔗 LinkedIn Post:** [View Project Details](https://www.linkedin.com/posts/hamza-kahloon-12a14125a_ai-legaltech-fullstackdevelopment-activity-7372317966253645825-dIFH)  
-**⭐ Status:** Enterprise Grade | **🏢 Clients:** 5+ Law Firms
-
-```
-Legal Innovation:
-• Research Efficiency: 70% time reduction
-• Document Analysis: AI-powered risk assessment
-• Client Communication: Automated FAQ & updates
-• Compliance: GDPR/CCPA compliant with audit logs
-
-Business Impact:
-• Cost Savings: $50K+ per firm annually
-• Accuracy Rate: 94% in legal research
-• Client Satisfaction: 4.9/5
-```
-
-</div>
-
-<div align="center">
-
-### 💼 AI-Driven Procurement System (AIPAS) | 2023
-**🎯 Tech Stack:** `Python` `Django` `OCR` `NLP` `Machine Learning`
-
-```
-Achievement Highlights:
-• Decision Accuracy: 92%
-• Processing Speed: 10x faster
-• Cost Reduction: 35%
-• Document Processing: 1000+ per hour
-```
-
-### 🩺 AI Dentist Reception System | 2024
-**💊 Tech Stack:** `Python` `Flask` `AI/ML` `SQLite`
-
-```
-Healthcare Innovation:
-• Automated Scheduling: Smart appointment management
-• Patient Interaction: AI-powered consultation
-• Treatment Recommendations: ML-based suggestions
-• Clinic Efficiency: 60% administrative time saved
-```
-
-</div>
-
-## 📊 Advanced GitHub Analytics ⭐
-
-<div align="center">
-  
-  <!-- GitHub Stats with Animation -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Kahloon786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  
-  <!-- GitHub Streak -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Kahloon786&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
-  
-</div>
-
-<div align="center">
-  
-  <!-- Language Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Kahloon786&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  
-  <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Kahloon786&theme=tokyo-night&hide_border=true&border_radius=15&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B"/>
-  
-</div>
-
-## 🏆 GitHub Achievements & Trophies
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hamza-Kahloon786&theme=tokyonight&no-frame=true&row=2&column=6&margin-h=15&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 💎 Professional Achievements
-
-<div align="center">
-
-| 🏆 Category | 🎯 Achievement | 📊 Metric | ⭐ Recognition |
-|------------|---------------|----------|---------------|
-| 🚀 **Project Delivery** | On-time Completion Rate | 98% | Client Excellence Award |
-| 🤖 **AI Innovation** | ML Model Accuracy | 92% Average | Technical Excellence |
-| 💻 **Code Quality** | Bug-free Deployment Rate | 95% | Quality Assurance Star |
-| 🌟 **Community Impact** | GitHub Stars Earned | 500+ | Open Source Contributor |
-| 📈 **Performance** | System Response Time | <200ms | Speed Optimization Expert |
-| 🎓 **Continuous Learning** | Certifications Earned | 8+ Verified | Learning Champion |
-| 👥 **Team Leadership** | Projects Led Successfully | 15+ | Leadership Recognition |
-| 🌐 **Global Reach** | International Clients | 10+ Countries | Global Impact Maker |
-
-</div>
-
-## 💼 Professional Journey Timeline
-
-<div align="center">
-  
-```mermaid
-timeline
-    title Career Timeline
-    2021 : Started Freelancing
-         : Built first Java applications
-         : Hospital Management System
-    2022 : University Graduation
-         : BS Software Engineering
-         : CGPA: 3.3/4.0
-    2023 : AI/ML Specialization
-         : AIPAS System (92% accuracy)
-         : Multiple Certifications
-    2024 : PGE Internship
-         : Full Stack Development
-         : Real-time Applications
-    2025 : Inter Tech Global
-         : Full Stack Developer with AI/ML
-         : Leading Complex Projects
-```
-
-</div>
-
-## 🌟 Skills Radar Chart
-
-<div align="center">
-  
-```mermaid
-%%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}}}%%
-quadrantChart
-    title Programming Skills Matrix
-    x-axis Low Complexity --> High Complexity
-    y-axis Individual --> Team Projects
-    quadrant-1 Advanced Projects
-    quadrant-2 Leadership Skills  
-    quadrant-3 Learning Phase
-    quadrant-4 Core Competencies
-    Python: [0.9, 0.8]
-    JavaScript: [0.8, 0.9]
-    React.js: [0.85, 0.85]
-    AI/ML: [0.9, 0.7]
-    Java: [0.7, 0.8]
-    Node.js: [0.8, 0.8]
-    Django: [0.8, 0.6]
-    FastAPI: [0.85, 0.7]
-```
-
-</div>
-
-## 🏅 Certifications & Achievements ⭐
-
-<div align="center">
-
-| 🏆 Certification | 🏛️ Institution | 📅 Year | ⭐ Status | 🎯 Skill Level |
-|------------------|----------------|---------|----------|---------------|
-| 🎓 **Web Designer and Developer** | PNY Training (Verified ✅) | 2024 | ✅ Completed | ⭐⭐⭐⭐⭐ Expert |
-| 🔥 **Full Stack Development** | PGE (Pangea Global Enterprise) | 2025 | ✅ Completed | ⭐⭐⭐⭐⭐ Expert |
-| 🎨 **UI/UX for Beginners** | Great Learning Academy | 2024 | ✅ Completed | ⭐⭐⭐⭐ Advanced |
-| 💻 **C++ Tutorial** | Great Learning Academy | 2023 | ✅ Completed | ⭐⭐⭐⭐ Advanced |
-| 🐍 **Python Programming** | SoloLearn | 2023 | ✅ Completed | ⭐⭐⭐⭐⭐ Expert |
-| 🤖 **AI/ML Fundamentals** | SoloLearn | 2023 | ✅ Completed | ⭐⭐⭐⭐⭐ Expert |
-| ⚡ **Advanced JavaScript** | Coursera | 2022 | ✅ Completed | ⭐⭐⭐⭐⭐ Expert |
-| 📊 **Database Management** | MongoDB University | 2022 | ✅ Completed | ⭐⭐⭐⭐ Advanced |
-
-### 🎖️ Special Recognitions
-
-<img src="https://img.shields.io/badge/🏆_Top_Performer-AI%2FML_Projects-gold?style=for-the-badge&logo=trophy&logoColor=white&labelColor=gold"/>
-<img src="https://img.shields.io/badge/⭐_Client_Choice-Best_Developer_2024-blue?style=for-the-badge&logo=star&logoColor=white&labelColor=blue"/>
-<img src="https://img.shields.io/badge/🚀_Innovation_Award-SaaS_Excellence-green?style=for-the-badge&logo=rocket&logoColor=white&labelColor=green"/>
-
-</div>
-
-## 🚀 Current Focus & Goals ⭐
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 2025 Objectives
-- [x] ⭐ **Master Advanced ML Algorithms** (In Progress)
-- [x] 🚀 **Deploy 5+ AI-Powered Applications** (3/5 Completed)
-- [ ] 🌟 **Contribute to Major Open Source Projects**
-- [ ] 💼 **Launch Personal SaaS Platform**
-- [x] ☁️ **Learn Cloud Technologies** (AWS Certified)
-- [x] 🏗️ **Improve System Architecture Skills**
-- [ ] 📚 **Publish Technical Articles** (2/10 Published)
-- [ ] 🎤 **Speak at Tech Conferences**
-
-### 🏆 Monthly Achievements
-```
-September 2025:
-✅ Storm AI Production Launch
-✅ 500+ GitHub Stars Milestone
-✅ Client Portfolio Expansion
-🎯 Next: Open Source Contribution
-```
-
-</td>
-<td width="50%">
-
-### 📈 Learning Path & Skills Growth
-```mermaid
-graph TD
-    A[Current Skills] --> B[Cloud Computing ☁️]
-    A --> C[Advanced AI/ML 🤖]
-    A --> D[DevOps Mastery 🛠️]
-    B --> E[AWS Solutions Architect]
-    C --> F[Deep Learning Specialization]
-    D --> G[Kubernetes & Docker]
-    E --> H[Tech Leadership 👨‍💼]
-    F --> H
-    G --> H
-    H --> I[CTO Level Expertise 🎯]
-```
-
-### 🌟 Impact Metrics
-- **Projects Delivered:** 25+ (98% Success Rate)
-- **GitHub Stars:** 500+ (Growing 10% monthly)
-- **Client Countries:** 10+ (Global Reach)
-- **Code Quality Score:** 95/100 (Industry Leading)
-
-</td>
-</tr>
-</table>
-
-## 💫 Professional Philosophy
-
-<div align="center">
-
-> ### *"Code is poetry written in logic, and AI is the rhythm that makes it dance."* 
-> 
-> **🎯 My Mission:** *Building intelligent solutions that don't just solve problems, but anticipate them.*
->
-> **⭐ Core Values:** *Innovation • Excellence • Continuous Learning • Client Success*
-
-<img src="https://img.shields.io/badge/💡_Philosophy-Code_With_Purpose-purple?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=purple"/>
-<img src="https://img.shields.io/badge/🌟_Vision-AI_for_Everyone-gold?style=for-the-badge&logo=eye&logoColor=white&labelColor=gold"/>
-<img src="https://img.shields.io/badge/🚀_Goal-Tech_Leadership-blue?style=for-the-badge&logo=target&logoColor=white&labelColor=blue"/>
-
-</div>
-
-## 🌐 Connect & Collaborate ⭐
-
-<div align="center">
-  
-  <!-- Social Links with Enhanced Styling -->
-  [![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit_My_Work-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=black)](https://portfolio-lvc1.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/hamza-kahloon-12a14125a)
-  [![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:hamzaakahloon903@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/923091453950)
-  
-  <!-- Professional Stats -->
-  <img src="https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-red?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=red"/>
-  <img src="https://img.shields.io/badge/💼_Status-Available_for_Projects-success?style=for-the-badge&logo=check-circle&logoColor=white&labelColor=success"/>
-  <img src="https://img.shields.io/badge/⏰_Response_Time-Within_24_Hours-blue?style=for-the-badge&logo=clock&logoColor=white&labelColor=blue"/>
-  
-</div>
-
-## 🎯 Why Work With Me?
-
-<table>
-<tr>
-<td width="33%">
-
-### 🚀 **Innovation First**
-- Cutting-edge AI/ML integration
-- Modern tech stack expertise
-- Future-proof solutions
-- **15+ AI models deployed**
-
-</td>
-<td width="33%">
-
-### ⚡ **Rapid Delivery**
-- Agile development methodology
-- <200ms average response time
-- 98% on-time delivery rate
-- **24/7 support available**
-
-</td>
-<td width="33%">
-
-### 🏆 **Proven Results**
-- 92% average project success rate
-- 4.9/5 client satisfaction
-- $500K+ value delivered
-- **Global client base**
-
-</td>
-</tr>
-</table>
-
-## 💻 Coding Activity & Development Stats
-
-<div align="center">
-  
-  <!-- Coding Activity Metrics -->
-  <img src="https://img.shields.io/badge/💻_Daily_Commits-5+-success?style=for-the-badge&logo=git&logoColor=white&labelColor=success"/>
-  <img src="https://img.shields.io/badge/⏰_Coding_Hours-8%2B_Daily-blue?style=for-the-badge&logo=clock&logoColor=white&labelColor=blue"/>
-  <img src="https://img.shields.io/badge/🔥_Current_Streak-45_Days-orange?style=for-the-badge&logo=fire&logoColor=white&labelColor=orange"/>
-  
-</div>
-
-## 💡 Development Insights & Random Wisdom
-
-<div align="center">
-  
-  <!-- Random Dev Quote -->
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-  
-  <!-- Additional Coding Stats -->
-  <img src="https://img.shields.io/badge/🎯_Focus_Language-Python_&_JavaScript-yellow?style=for-the-badge&logo=code&logoColor=white&labelColor=yellow"/>
-  <img src="https://img.shields.io/badge/🛠️_Favorite_IDE-VS_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=blue"/>
-  
-</div>
-
-## 💡 Contribution Heatmap
-<div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Hamza-Kahloon786" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
 
+## About me
+
+I'm a Full Stack Developer and AI/ML Engineer at **Inter Tech Global**, based in Lahore, Pakistan. Over 4+ years I've shipped 25+ production applications — from SaaS platforms serving 1,000+ daily active users to enterprise AI systems achieving 92% decision accuracy. My focus is building intelligent web solutions that are fast, reliable, and genuinely useful.
+
+```yaml
+Role        : Full Stack Developer with AI/ML
+Company     : Inter Tech Global
+Location    : Lahore, Punjab, Pakistan
+Education   : BS Software Engineering — University of Lahore (CGPA 3.3/4.0)
+Experience  : 4+ years
+Speciality  : AI-powered web applications
+Status      : Open to freelance & collaborations
+```
+
+---
+
+## Key metrics
+
+| Metric | Value |
+|--------|-------|
+| Projects delivered | 25+ (98% on-time rate) |
+| AI model accuracy | 92% average across 15+ models |
+| Daily active users | 1,000+ (Storm AI platform) |
+| Client satisfaction | 4.9 / 5 across all engagements |
+| GitHub stars | 500+ |
+| Countries served | 10+ |
+
+---
+
+## Tech stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-95%25-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-85%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-80%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-70%25-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### AI / ML & Data science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured projects
+
+### Storm AI — Field Service Management SaaS
+> React.js · Node.js · AI Integration · QuickBooks API · Twilio
+
+A full-featured SaaS platform for field service businesses with an AI sales assistant, CRM pipeline, GPS-powered smart scheduling, a customer self-service portal, and a mobile technician dispatch app.
+
+**Live:** [storm-ai.decodersdigital.net](https://storm-ai.decodersdigital.net/)
+
+| Metric | Value |
+|--------|-------|
+| Daily active users | 1,000+ |
+| Response time | < 150 ms |
+| Uptime | 99.9% |
+| Customer satisfaction | 4.8 / 5 |
+
+---
+
+### Nozama.ai — AI-powered e-commerce platform
+> React.js · Node.js · MongoDB · Machine Learning
+
+ML-driven marketplace with dynamic real-time pricing, 96%-accuracy product recommendations, personalized UX, and a 24/7 AI customer service chatbot.
+
+**LinkedIn:** [View project post](https://www.linkedin.com/posts/hamza-kahloon-12a14125a_fullstackdevelopment-aimarketplace-react-activity-7369043698388451330-sfAN)
+
+| Metric | Value |
+|--------|-------|
+| Sales conversion uplift | +45% |
+| Customer retention uplift | +60% |
+| Support ticket reduction | -70% |
+| User growth | 300% |
+
+---
+
+### Legal Assistant AI Bot
+> React.js · Node.js · GPT-4 · RAG Pipeline · ChromaDB
+
+Enterprise-grade legal research assistant deployed across 5+ law firms. Processes documents with AI-powered risk assessment, automates client communications, and maintains full GDPR/CCPA audit logs.
+
+**LinkedIn:** [View project post](https://www.linkedin.com/posts/hamza-kahloon-12a14125a_ai-legaltech-fullstackdevelopment-activity-7372317966253645825-dIFH)
+
+| Metric | Value |
+|--------|-------|
+| Research time saved | 70% |
+| Legal research accuracy | 94% |
+| Annual cost savings per firm | $50,000+ |
+| Client satisfaction | 4.9 / 5 |
+
+---
+
+### AIPAS — AI-Driven Procurement System
+> Python · Django · OCR · NLP · Machine Learning
+
+Intelligent procurement automation that reads, classifies, and acts on supplier documents using OCR and NLP — achieving 92% decision accuracy and processing 1,000+ documents per hour.
+
+| Metric | Value |
+|--------|-------|
+| Decision accuracy | 92% |
+| Processing speed | 10× faster than manual |
+| Cost reduction | 35% |
+
+---
+
+### AI Dentist Reception System
+> Python · Flask · AI/ML · SQLite
+
+Smart clinic front-desk system with automated appointment scheduling, AI-powered patient intake, ML-based treatment suggestions, and clinic-wide admin automation.
+
+| Metric | Value |
+|--------|-------|
+| Admin time saved | 60% |
+
+---
+
+## GitHub analytics
+
 <div align="center">
-  
-  <!-- Animated Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=fff"/>
-  
-  <!-- Final Achievement Showcase -->
-  <img src="https://img.shields.io/badge/⭐_Total_GitHub_Stars-500+-gold?style=for-the-badge&logo=star&logoColor=white&labelColor=gold"/>
-  <img src="https://img.shields.io/badge/🚀_Projects_in_Production-5+-success?style=for-the-badge&logo=rocket&logoColor=white&labelColor=success"/>
-  <img src="https://img.shields.io/badge/🌟_Client_Satisfaction-4.9%2F5-blue?style=for-the-badge&logo=heart&logoColor=white&labelColor=blue"/>
-  
-  ### 🎯 "Turning Complex Problems into Elegant AI Solutions" ⭐
-  
-  **🚀 Ready to build the future together? Let's connect and create something amazing! 🌟**
-  
-  <!-- Inspirational Quote -->
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-  
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-  
-  <!-- Final Call to Action -->
-  ### 💼 Open for Collaborations | 🌟 Building Tomorrow's Tech Today | ⚡ Response Within 24 Hours
-  
-  <img src="https://img.shields.io/badge/💌_Let's_Build_Something-AMAZING_TOGETHER-ff6b6b?style=for-the-badge&logo=handshake&logoColor=white&labelColor=ff6b6b"/>
-  
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Kahloon786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=AFA9EC&text_color=C9D1D9"/>
+<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Kahloon786&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=7F77DD&fire=FF6B6B&currStreakLabel=7F77DD"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Kahloon786&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Kahloon786&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F77DD&line=534AB7&point=CECBF6"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hamza-Kahloon786&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Career timeline
+
+## Certifications
+
+| Certification | Institution | Year |
+|---------------|-------------|------|
+| Full Stack Development | PGE — Pangea Global Enterprise | 2025 |
+| Web Designer and Developer | PNY Training (verified) | 2024 |
+| UI/UX for Beginners | Great Learning Academy | 2024 |
+| AI/ML Fundamentals | SoloLearn | 2023 |
+| Python Programming | SoloLearn | 2023 |
+| C++ Tutorial | Great Learning Academy | 2023 |
+| Advanced JavaScript | Coursera | 2022 |
+| Database Management | MongoDB University | 2022 |
+
+---
+
+## 2025 goals
+
+- [x] Master advanced ML algorithms
+- [x] Deploy 5+ AI-powered applications
+- [x] Learn cloud technologies (AWS)
+- [x] Strengthen system architecture skills
+- [ ] Contribute to major open-source projects
+- [ ] Launch a personal SaaS platform
+- [ ] Publish 10 technical articles (2 / 10 done)
+- [ ] Speak at a tech conference
+
+---
+
+## Let's connect
+
+I'm open to freelance projects, full-time opportunities, and interesting collaborations.
+
+| Channel | Link |
+|---------|------|
+| Portfolio | [portfolio-lvc1.vercel.app](https://portfolio-lvc1.vercel.app) |
+| LinkedIn | [hamza-kahloon-12a14125a](https://linkedin.com/in/hamza-kahloon-12a14125a) |
+| Email | hamzaakahloon903@gmail.com |
+| WhatsApp | +92 309 145 3950 |
+| Location | Lahore, Pakistan |
+| Response time | Within 24 hours |
+
+---
+
+<div align="center">
+
+*"Code is poetry written in logic — AI is the rhythm that makes it dance."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,534AB7&height=120&section=footer&animation=twinkling"/>
+
 </div>
